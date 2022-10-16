@@ -1,0 +1,15 @@
+.flex-direction {
+    display: flex;
+    flex-direction: column;
+
+    background-color: darkgoldenrod;
+}
+
+.flex-direction > div {
+    font-size: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    background-color: aquamarine;
+}
